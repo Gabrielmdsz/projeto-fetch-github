@@ -22,7 +22,6 @@ Este é um projeto simples de **consulta de usuários no GitHub**, que utiliza a
 - JavaScript (ES6+)
 - Fetch API
 - Módulos ES (import/export)
-
 ---
 
 ## 📁 Estrutura de Pastas
